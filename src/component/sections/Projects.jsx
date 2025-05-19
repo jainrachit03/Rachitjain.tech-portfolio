@@ -66,13 +66,17 @@ const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://chrome.google.com/webstore/detail/obbpmdagonafcfojhkfkfppmfjicpjeo"
-                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Try Extension →
-                </a>
+  href="https://github.com/jainrachit03/currency-converter-extension"
+  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  View GitHub →
+</a>
+<span className="text-gray-400 text-sm italic ml-2">
+  (Available as a local install)
+</span>
+
               </div>
             </div>
 
